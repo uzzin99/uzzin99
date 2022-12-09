@@ -30,12 +30,13 @@
 
 ### 📬Blog
 -------------------------------------------
++ **기술 블로그**
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@uzzin/)](https://velog.io/@uzzin/)
+https://velog.io/@uzzin
 
 ### 📖Portfolio
 -------------------------------------------
-+ **배달의 민족 웹사이트**
++ **배달의 민족 웹사이트 버전**
 
 https://github.com/uzzin99/my_re
 
