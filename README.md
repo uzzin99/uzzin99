@@ -28,8 +28,14 @@
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </div>
 
-### 📬Contacts
+### 📬Blog
 -------------------------------------------
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&link=https://velog.io/@uzzin/)](https://velog.io/@uzzin/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yuhbn5164@naver.com)](mailto:yuhbn5164@naver.com)
+
+### 📖Portfolio
+-------------------------------------------
++ **배달의 민족 웹사이트**
+
+https://github.com/uzzin99/my_re
+
