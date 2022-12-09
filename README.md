@@ -26,9 +26,9 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-FF9E0F?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-</div>
-
-
+</div>  
+  
+  
 ### 📬Blog
 -------------------------------------------
 + **기술 블로그**
