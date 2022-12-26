@@ -41,3 +41,6 @@ https://velog.io/@uzzin
 
 https://github.com/uzzin99/my_re
 
++ **메가박스 웹사이트 버전 (진행중)**
+
+https://github.com/uzzin99/megabox
