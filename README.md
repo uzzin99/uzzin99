@@ -42,6 +42,6 @@ https://velog.io/@uzzin
 https://github.com/uzzin99/my_re
 
 
-+ **영화추천 웹사이 (진행중)**
++ **영화추천 웹사이트 (진행중)**
 
 https://github.com/uzzin99/Nextval
