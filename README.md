@@ -35,13 +35,3 @@
 
 https://velog.io/@uzzin
 
-### 📖Portfolio
--------------------------------------------
-+ **배달의 민족 웹사이트 버전**
-
-https://github.com/uzzin99/my_re
-
-
-+ **영화추천 웹사이트 (진행중)**
-
-https://github.com/uzzin99/Nextval
